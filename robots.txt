@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rujaejeef.salsita.fun/sitemap.xml
